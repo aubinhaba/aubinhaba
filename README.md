@@ -155,7 +155,7 @@ var aubin = Engineer.builder()
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aubin-haba1b72b351/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aubin-haba-1b72b351/)
 - 💻 [GitHub](https://github.com/aubinhaba)
 ---
 
