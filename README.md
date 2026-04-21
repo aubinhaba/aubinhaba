@@ -1,8 +1,10 @@
 <div align="center">
 
 # Aubin Haba
+## 🔗 Main Profile
+👉 https://github.com/aubinhaba
 
-### Senior Software Engineer · Cloud-Native · Java · AWS · Backend & Frontend · AI Enthusiast
+### Senior Software Engineer | Java · Spring Boot | AWS · Terraform | Microservices | Fintech & Payments
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aubin-haba-1b72b351/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aubinhaba)
